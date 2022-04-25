@@ -7,7 +7,7 @@ int square (int i)
 {
 	int sqa;
 	sqa = i*i;
-	return sqa;
+	//return sqa;
 }
 
 main()
