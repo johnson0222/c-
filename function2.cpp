@@ -9,7 +9,7 @@ int square (int i)
 	sqa = i*i;
 	//return sqa;
 }
-CAMO
+
 main()
 {
 	int i;
