@@ -1,4 +1,4 @@
-
+//https://shengyu7697.github.io/cpp-static/ static參考link 
 //***********靜態外部變數***********
 #include <iostream>
 #include <cstdlib>
