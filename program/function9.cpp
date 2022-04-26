@@ -1,12 +1,12 @@
-//https://shengyu7697.github.io/cpp-extern/ ---->參考link 
-
+//https://shengyu7697.github.io/cpp-extern/ ---->extern參考link 
+//***********global variable*********** 
 #include <iostream>
 #include <cstdlib>
-
+double pi=3;
 using namespace std;
 void peri(double),area(double);
 
-double pi=3;
+
 
 main()
 {
